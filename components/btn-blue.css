@@ -1,0 +1,19 @@
+.btn-blue{
+	padding: 10px 20px;
+    background-color: #00072b;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: color 0.3s;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100px;
+	margin: auto;
+    font-family: Roboto;
+}
+
+a : hover{
+	color: #ffcc00;
+}

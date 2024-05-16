@@ -1,0 +1,68 @@
+.container {
+  width: 1350px;
+  display: flex;
+    justify-content: space-between;
+    align-items: center;
+  margin: 50px auto; /* set margins: top/bottom: 40px; left/right: automatic */
+}
+
+#accueil {
+  text-align: center ;
+ font-family: Hiragino Sans GB ;
+ font-style:italic;
+}
+
+#réseaux {
+  font-family: Hiragino Sans GB ;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.navbar {
+    background-color: #333;
+    color: #fff;
+    padding: 15px ;
+    width: 1400px ;
+    margin : 20px auto
+
+}
+
+}
+
+.logo {
+    margin: auto 10px;
+}
+
+.nav-links {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.nav-links li {
+    display: inline;
+    margin-right: 20px;
+}
+
+.nav-links li:last-child {
+    margin-right: 0;
+}
+
+.nav-links a {
+    color: #fff;
+    text-decoration: none;
+    transition: color 0.3s;
+    padding: 50px;
+}
+
+.nav-links a:hover {
+    color: #ffcc00;
+}
+
+.liste-horizontal a:hover{
+color: #ffcc00;
+}

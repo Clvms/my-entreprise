@@ -1,0 +1,31 @@
+#services {
+    padding: 20px;
+    border-radius: 10px;
+    margin: 50px;
+    background-image: url(image/_be2415cd-9da0-43ff-ba35-77bf845641dc.jpg); 
+    box-shadow: 0 10px 30px grey
+}
+
+
+#services h2 {
+    font-size: 24px;
+    font-weight: bolder;
+    color: black;
+    margin-bottom: 15px;
+    text-align: center;
+    font-family: Hiragino Sans GB ;
+}
+
+.service-liste {
+    list-style-type: none;
+    padding: 2px;
+    text-align: center ;
+}
+
+.service-liste h3 {
+    font-size: 18px;
+    color: black;
+    margin-bottom: 10px;
+    font-weight: lighter;
+    padding:4px ;
+}
